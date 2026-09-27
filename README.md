@@ -12,7 +12,6 @@ Your email lives on your device. Not in someone else's cloud.
 
 ![Windows](https://img.shields.io/badge/Windows-supported-0078D4?style=flat&logo=windows&logoColor=white)
 ![Version](https://img.shields.io/badge/version-v4-brightgreen?style=flat)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
 
 ---
 
@@ -66,9 +65,10 @@ Looking for a **Thunderbird alternative for Windows**? A **privacy-first mail cl
 
 ---
 
-## License
+## License and Terms
 
-See [LICENSE](./LICENSE) for details.
+Nyoma is proprietary software free to use for citizens of India/Bharat. All rights reserved — Gaoov LLP.
+Redistribution or modification without explicit written permission is not permitted.
 
 ---
 
